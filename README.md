@@ -40,7 +40,7 @@ Currently, blogs are not persisted across server restarts (no database integrati
 
 ## 🛠️ Installation
 
-To run this project locally, make sure you have **Node.js** and **npm** installed.
+To run this project locally, Follow the below commands.
 
 Follow these steps:
 
