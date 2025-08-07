@@ -65,5 +65,3 @@ node index.js
 
 Go to Any Browser and type localhost:3000 in the Url.
 
-# 3. Install the dependencies
-npm install
